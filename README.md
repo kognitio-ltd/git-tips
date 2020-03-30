@@ -240,7 +240,7 @@ Every change that git is told about, including "git add" and "git stash", is sav
  
 ### Tutorials on Git internals
 
- * [Disecting Git's Gits](https://youtu.be/YUCwr1Y6bFI)
+ * [Disecting Git's Guts](https://youtu.be/YUCwr1Y6bFI)
  * Git from the Inside Out [essay](https://codewords.recurse.com/issues/two/git-from-the-inside-out) and [talk](https://maryrosecook.com/blog/post/git-from-the-inside-out-talk)
  * [Advanced Git: Graphs, Hashes and Compression, Oh My!](https://www.youtube.com/watch?v=ig5E8CcdM9g)
- * [Git from the buttom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
+ * [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
